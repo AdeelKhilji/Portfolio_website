@@ -8,8 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily:{
-        akihi:["Akihibara-eeW3", "sans-serif"],
-        akihiHyper:["AkihiHyper", "sans-serif"],
+        akihi:["akihibara_hyper", "sans-serif"],
       }
     },
   },
