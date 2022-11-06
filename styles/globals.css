@@ -29,12 +29,7 @@ a {
   }
 }
 @font-face {
-  font-family: "Akihibara-eeW3";
-  src: url("/public/fonts/Akihibara-eeW3.ttf");
-}
-
-@font-face {
-  font-family: "AkihiHyper";
-  src: url("/public/fonts/AkihibaraHyper-WW2A.ttf");
+  font-family: "akihibara_hyper";
+  src: url("/public/fonts/akihibara_hyper.ttf") format("ttf");
 }
 
