@@ -11,7 +11,7 @@ export default function Home() {
 
       <div class="grid place-items-center h-screen">
         <h3 >HOME PAGE</h3>
-        <h3 class="text-3xl font-akihi">Test</h3>
+        
       </div>
       
     </div>
